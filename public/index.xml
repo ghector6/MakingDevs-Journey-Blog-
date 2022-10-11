@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MakingDevs Journey</title>
+    <link>http://example.org/</link>
+    <description>Recent content on MakingDevs Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2022 18:31:46 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git commit -m (My most used commands)</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Tue, 11 Oct 2022 18:31:46 -0500</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Hector´s most used commands in git This is a blog on my journey that will contain my most used commands with git</description>
+    </item>
+    
+  </channel>
+</rss>

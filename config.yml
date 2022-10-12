@@ -5,3 +5,14 @@ theme: PaperMod
 publishdir: docs
 canonifyURLs: true
 relativeURLs: true
+
+params:
+    homeInfoParams:
+        Title: My journey
+        Content: Can be Info, links, about...
+
+    socialIcons: # optional
+        - name: "Github"
+          url: "https://github.com/ghector6"
+        - name: "Twitter"
+          url: "<link2>"

@@ -8,11 +8,11 @@ relativeURLs: true
 
 params:
     homeInfoParams:
-        Title: My journey
-        Content: Can be Info, links, about...
+        Title: My journey :technologist:
+        Content: This is my personal blog to keep track of the subjects I'm going to be learning through my Making Devs journey...
 
     socialIcons: # optional
         - name: "Github"
           url: "https://github.com/ghector6"
         - name: "Twitter"
-          url: "<link2>"
+          url: "https://twitter.com/GHector6"

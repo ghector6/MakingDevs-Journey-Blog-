@@ -1,7 +1,0 @@
-baseURL = 'https://ghector6.github.io/MakingDevs-Journey-Blog-/'
-languageCode = 'en-us'
-title = 'MakingDevs Journey'
-theme = "PaperMod"
-publishdir = "docs"
-canonifyURLs = true
-relativeURLs = true

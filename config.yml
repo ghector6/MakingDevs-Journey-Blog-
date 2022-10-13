@@ -8,7 +8,7 @@ relativeURLs: true
 
 params:
     homeInfoParams:
-        Title: My journey
+        Title: Hello There...
         Content: This is my personal blog to keep track of the subjects I'm going to be learning through my Making Devs journey...
 
     socialIcons: # optional

@@ -34,7 +34,7 @@ It is normally used in "logins" and to perform operations in remote computers or
 
 ### SSH Keys 🔑 🔐
 
-SSH keys are...
+SSH keys a type of RSA encryption comparable to 617 digit long password, Based on a pair public key cryptography, a public key that generates a private key capable of encryption of the message between them. 
 
 
 

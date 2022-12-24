@@ -6,7 +6,12 @@ publishdir: docs
 canonifyURLs: true
 relativeURLs: true
 
+
+disqusShortname: makingdevs-journey-blog
+
 params:
+    comments: true
+    
     homeInfoParams:
         Title: Hello There...
         Content: This is my personal blog to keep track of the subjects I'm going to be learning through my Making Devs journey...
@@ -16,3 +21,5 @@ params:
           url: "https://github.com/ghector6"
         - name: "Twitter"
           url: "https://twitter.com/GHector6"
+
+

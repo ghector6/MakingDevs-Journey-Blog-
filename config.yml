@@ -10,8 +10,7 @@ relativeURLs: true
 disqusShortname: makingdevs-journey-blog
 
 params:
-    comments: true
-    
+    comments: true    
     homeInfoParams:
         Title: Hello There...
         Content: This is my personal blog to keep track of the subjects I'm going to be learning through my Making Devs journey...
@@ -21,5 +20,16 @@ params:
           url: "https://github.com/ghector6"
         - name: "Twitter"
           url: "https://twitter.com/GHector6"
+
+    assets: 
+        disableHLJS: true 
+        favicon: "img/favicon.ico" 
+ #     favicon16x16: "<link / abs url>" 
+ #     favicon32x32: "<link / abs url>" 
+ #     apple_touch_icon: "<link / abs url>" 
+ #     safari_pinned_tab: "<link / abs url>"
+
+
+
 
 

@@ -6,6 +6,21 @@ publishdir: docs
 canonifyURLs: true
 relativeURLs: true
 
+menu:
+    main:
+        - identifier: categories
+          name: Categories
+          url: categories/
+          weight: 10 
+        - identifier: tags
+          name: Tags
+          url: tags/
+          weight: 20 
+        - identifier: archives
+          name: Archives
+          url: archives/
+          weight: 30 
+
 
 disqusShortname: makingdevs-journey-blog
 
@@ -28,8 +43,5 @@ params:
  #     favicon32x32: "<link / abs url>" 
  #     apple_touch_icon: "<link / abs url>" 
  #     safari_pinned_tab: "<link / abs url>"
-
-
-
 
 

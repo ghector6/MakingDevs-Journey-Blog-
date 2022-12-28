@@ -26,17 +26,33 @@ disqusShortname: makingdevs-journey-blog
 
 params:
     comments: true    
-    homeInfoParams:
-        Title: Hello There...
-        Content: This is my personal blog to keep track of the subjects I'm going to be learning through my Making Devs journey...
+    profileMode: 
+        enabled: true # needs to be explicitly set
+        title: Hector´s Journey
+        subtitle: "Welcome to my blog, learn with me"
+        imageUrl: "img/Hector.jpg"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: Hector Garcia R,
+        buttons:
+          - name: Posts
+            url: posts
+          - name: Tags
+            url: tags
+
     cover:
         linkFullImages: true
+
+    ShowBreadCrumbs: true
+    ShowReadingTime: true
 
     socialIcons: # optional
         - name: "Github"
           url: "https://github.com/ghector6"
         - name: "Twitter"
           url: "https://twitter.com/GHector6"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/ghector6/"
 
     assets: 
         disableHLJS: true 

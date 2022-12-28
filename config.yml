@@ -12,10 +12,10 @@ menu:
           name: Categories
           url: categories/
           weight: 10 
-        - identifier: tags
-          name: Tags
-          url: tags/
-          weight: 20 
+        #- identifier: tags
+        #  name: Tags
+        #  url: tags/
+        #  weight: 20 
         - identifier: archives
           name: Archives
           url: archives/
@@ -31,8 +31,8 @@ params:
         title: Hector´s Journey
         subtitle: "Welcome to my blog, learn with me"
         imageUrl: "img/Hector.jpg"
-        imageWidth: 120
-        imageHeight: 120
+        imageWidth: 200
+        imageHeight: 200
         imageTitle: Hector Garcia R,
         buttons:
           - name: Posts
@@ -42,6 +42,8 @@ params:
 
     cover:
         linkFullImages: true
+    ShowShareButtons: true
+    ShareButtons: ["twitter", "linkedin"]
 
     ShowBreadCrumbs: true
     ShowReadingTime: true

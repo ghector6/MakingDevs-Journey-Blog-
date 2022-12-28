@@ -3,7 +3,10 @@ title: "Learning about SSH"
 date: 2022-10-12T09:25:08-05:00
 tags: ["html", "css"]
 categories: ["tech"] 
-
+cover:
+    image: "img/ssh.png"
+    alt: "SSH"
+    caption: "SSH"
 ---
 
 ## What is SSH?

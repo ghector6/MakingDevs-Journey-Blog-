@@ -1,7 +1,7 @@
 ---
 title: "RubyPath"
 date: 2022-10-18T11:24:05-05:00
-draft: true
+draft: false
 cover:
     image: "img/Ruby_logo.png" # image path/url
     alt: "Ruby logo" # alt text

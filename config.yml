@@ -29,7 +29,7 @@ params:
     profileMode: 
         enabled: true # needs to be explicitly set
         title: Hector´s Journey
-        subtitle: "Welcome to my blog, learn with me"
+        subtitle: "Welcome to my blog, learn with me 🚀"
         imageUrl: "img/codebeamme.png"
         imageWidth: 200
         imageHeight: 200
